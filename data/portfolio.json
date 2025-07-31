@@ -1,9 +1,9 @@
 {
   "name": "William",
   "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm William - imaginative",
-  "headerTaglineThree": "game designer and developer",
-  "headerTaglineFour": " based in Kudus, Indonesia.",
+  "headerTaglineTwo": "I'm William - Imaginative",
+  "headerTaglineThree": "Game designer and developer",
+  "headerTaglineFour": " Based in Kudus, Indonesia.",
   "showCursor": true,
   "showBlog": true,
   "darkMode": true,
@@ -23,6 +23,11 @@
       "id": "3",
       "title": "Email",
       "link": "mailto:hello@chetanverma.com"
+    },
+    {
+      "id": "4",
+      "title": "Discord",
+      "link": "discordapp.com/users/678237209865879583"
     }
   ],
   "projects": [
